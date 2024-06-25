@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/logo_csf.jpeg</file>
+        <file>src/db/SupermarketDB.db</file>
+    </qresource>
+</RCC>
